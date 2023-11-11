@@ -14,16 +14,6 @@ Para publicar um post, é necessário inserir um título e uma imagem jpg, png o
 
 Na página de perfil, o usuário pode inserir uma foto, escrever sua biografia e trocar sua senha. Não sendo permitido editar o e-mail.
 
-## Imagens
-
-<div>
-   <img src="./frontend/public/assets/img/image-1.png" width="600" />
-   <img src="./frontend/public/assets/img/image-2.png" width="600" />
-   <img src="./frontend/public/assets/img/image-3.png" width="600" />
-   <img src="./frontend/public/assets/img/image-4.png" width="600" />
-   <img src="./frontend/public/assets/img/image-5.png" width="600" />
-</div>
-
 ## :rocket: Techs
 
 <ul>
@@ -87,14 +77,14 @@ REACT_APP_API_UPLOADS=http://localhost:5000/uploads
 - Execute
 
 ```bash
-$ npm run start
+$ npm run dev
 ```
 
 - Executar scripts
 
 |           Ação            |   Utilização    |
 | :-----------------------: | :-------------: |
-| Iniciar o desenvolvimento | `npm run start` |
+| Iniciar o desenvolvimento | `npm run dev` |
 |  Compilar para produção   |   `npm build`   |
 
 #### Back-End
