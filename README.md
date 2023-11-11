@@ -67,13 +67,6 @@ $ cd frontend/
 $ npm install
 ```
 
-```bash
-# Crie um arquivo .env e configure as váriaveis de ambiente
-# API
-REACT_APP_API_URL=http://localhost:5000/api
-REACT_APP_API_UPLOADS=http://localhost:5000/uploads
-```
-
 - Execute
 
 ```bash
@@ -82,10 +75,10 @@ $ npm run dev
 
 - Executar scripts
 
-|           Ação            |   Utilização    |
-| :-----------------------: | :-------------: |
+|           Ação            |  Utilização   |
+| :-----------------------: | :-----------: |
 | Iniciar o desenvolvimento | `npm run dev` |
-|  Compilar para produção   |   `npm build`   |
+|  Compilar para produção   |  `npm build`  |
 
 #### Back-End
 
